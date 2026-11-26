@@ -1,0 +1,11 @@
+Datu kopa:           CICIDS2017 Network Attack Detection Dataset, fails CICIDS2017.csv
+Lejupielādes saite:  https://www.kaggle.com/datasets/datcolabssnet/cicids2017-network-attack-detection-dataset?utm_source=chatgpt.com&select=CICIDS2017.csv
+Lejupielādes datums: 26.11.2026
+Licence:             CC0: Public Domain
+
+Oriģinālais avots:   Canadian Institute for Cybersecurity, University of New Brunswick
+                     https://www.unb.ca/cic/datasets/ids-2017.html
+Atsauce:             Sharafaldin, Lashkari, Ghorbani (2018). "Toward Generating a New Intrusion Detection
+                     Dataset and Intrusion Traffic Characterization", ICISSP 2018.
+
+Piezīme: fails dati/ mapē ir tieši tāds, kāds lejupielādēts.
